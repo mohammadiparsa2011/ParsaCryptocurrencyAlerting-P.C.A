@@ -1,0 +1,75 @@
+G:\parsa\school\kharazmi_10th\AlarmCryptoParsa\AlarmCryptoParsa\bin\Debug\AlarmCryptoParsa.exe.config
+G:\parsa\school\kharazmi_10th\AlarmCryptoParsa\AlarmCryptoParsa\bin\Debug\AlarmCryptoParsa.exe
+G:\parsa\school\kharazmi_10th\AlarmCryptoParsa\AlarmCryptoParsa\bin\Debug\AlarmCryptoParsa.pdb
+G:\parsa\school\kharazmi_10th\AlarmCryptoParsa\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.Form1.resources
+G:\parsa\school\kharazmi_10th\AlarmCryptoParsa\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.Properties.Resources.resources
+G:\parsa\school\kharazmi_10th\AlarmCryptoParsa\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.csproj.GenerateResource.Cache
+G:\parsa\school\kharazmi_10th\AlarmCryptoParsa\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.exe
+G:\parsa\school\kharazmi_10th\AlarmCryptoParsa\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.pdb
+G:\parsa\school\kharazmi_10th\AlarmCryptoParsa\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.csprojResolveAssemblyReference.cache
+G:\parsa\jashnvareh\kharazmi_10th\AlarmCryptoParsa\AlarmCryptoParsa\bin\Debug\AlarmCryptoParsa.exe.config
+G:\parsa\jashnvareh\kharazmi_10th\AlarmCryptoParsa\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.exe
+G:\parsa\jashnvareh\kharazmi_10th\AlarmCryptoParsa\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.pdb
+G:\parsa\jashnvareh\kharazmi_10th\AlarmCryptoParsa\AlarmCryptoParsa\bin\Debug\AlarmCryptoParsa.exe
+G:\parsa\jashnvareh\kharazmi_10th\AlarmCryptoParsa\AlarmCryptoParsa\bin\Debug\AlarmCryptoParsa.pdb
+G:\parsa\jashnvareh\kharazmi_10th\AlarmCryptoParsa\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.csprojResolveAssemblyReference.cache
+G:\parsa\jashnvareh\kharazmi_10th\AlarmCryptoParsa\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.Form1.resources
+G:\parsa\jashnvareh\kharazmi_10th\AlarmCryptoParsa\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.Properties.Resources.resources
+G:\parsa\jashnvareh\kharazmi_10th\AlarmCryptoParsa\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.csproj.GenerateResource.Cache
+G:\parsa\jashnvareh\backup جشنواره\21 day\AlarmCryptoParsa\AlarmCryptoParsa\bin\Debug\AlarmCryptoParsa.exe.config
+G:\parsa\jashnvareh\backup جشنواره\21 day\AlarmCryptoParsa\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.exe
+G:\parsa\jashnvareh\backup جشنواره\21 day\AlarmCryptoParsa\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.pdb
+G:\parsa\jashnvareh\backup جشنواره\21 day\AlarmCryptoParsa\AlarmCryptoParsa\bin\Debug\AlarmCryptoParsa.exe
+G:\parsa\jashnvareh\backup جشنواره\21 day\AlarmCryptoParsa\AlarmCryptoParsa\bin\Debug\AlarmCryptoParsa.pdb
+G:\parsa\jashnvareh\backup جشنواره\21 day\AlarmCryptoParsa\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.csprojResolveAssemblyReference.cache
+G:\parsa\jashnvareh\backup جشنواره\21 day\AlarmCryptoParsa\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.Form1.resources
+G:\parsa\jashnvareh\backup جشنواره\21 day\AlarmCryptoParsa\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.Properties.Resources.resources
+G:\parsa\jashnvareh\backup جشنواره\21 day\AlarmCryptoParsa\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.csproj.GenerateResource.Cache
+C:\Users\ss\Desktop\AlarmCryptoParsa\AlarmCryptoParsa\AlarmCryptoParsa\AlarmCryptoParsa\bin\Debug\AlarmCryptoParsa.exe.config
+C:\Users\ss\Desktop\AlarmCryptoParsa\AlarmCryptoParsa\AlarmCryptoParsa\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.exe
+C:\Users\ss\Desktop\AlarmCryptoParsa\AlarmCryptoParsa\AlarmCryptoParsa\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.pdb
+C:\Users\ss\Desktop\AlarmCryptoParsa\AlarmCryptoParsa\AlarmCryptoParsa\AlarmCryptoParsa\bin\Debug\AlarmCryptoParsa.exe
+C:\Users\ss\Desktop\AlarmCryptoParsa\AlarmCryptoParsa\AlarmCryptoParsa\AlarmCryptoParsa\bin\Debug\AlarmCryptoParsa.pdb
+C:\Users\ss\Desktop\AlarmCryptoParsa\AlarmCryptoParsa\AlarmCryptoParsa\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.csprojResolveAssemblyReference.cache
+C:\Users\ss\Desktop\AlarmCryptoParsa\AlarmCryptoParsa\AlarmCryptoParsa\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.Form1.resources
+C:\Users\ss\Desktop\AlarmCryptoParsa\AlarmCryptoParsa\AlarmCryptoParsa\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.Properties.Resources.resources
+C:\Users\ss\Desktop\AlarmCryptoParsa\AlarmCryptoParsa\AlarmCryptoParsa\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.csproj.GenerateResource.Cache
+C:\Users\ss\Desktop\AlarmCryptoParsa\AlarmCryptoParsa\ParsaCryptocurrencyAlerting\AlarmCryptoParsa\bin\Debug\AlarmCryptoParsa.exe.config
+C:\Users\ss\Desktop\AlarmCryptoParsa\AlarmCryptoParsa\ParsaCryptocurrencyAlerting\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.exe
+C:\Users\ss\Desktop\AlarmCryptoParsa\AlarmCryptoParsa\ParsaCryptocurrencyAlerting\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.pdb
+I:\AlarmCryptoParsa\ParsaCryptocurrencyAlerting\AlarmCryptoParsa\bin\Debug\AlarmCryptoParsa.exe.config
+I:\AlarmCryptoParsa\ParsaCryptocurrencyAlerting\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.exe
+I:\AlarmCryptoParsa\ParsaCryptocurrencyAlerting\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.pdb
+I:\AlarmCryptoParsa\ParsaCryptocurrencyAlerting\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.csprojResolveAssemblyReference.cache
+I:\AlarmCryptoParsa\ParsaCryptocurrencyAlerting\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.Form1.resources
+I:\AlarmCryptoParsa\ParsaCryptocurrencyAlerting\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.csproj.GenerateResource.Cache
+I:\AlarmCryptoParsa\ParsaCryptocurrencyAlerting\AlarmCryptoParsa\bin\Debug\AlarmCryptoParsa.exe
+I:\AlarmCryptoParsa\ParsaCryptocurrencyAlerting\AlarmCryptoParsa\bin\Debug\AlarmCryptoParsa.pdb
+I:\AlarmCryptoParsa\ParsaCryptocurrencyAlerting\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.Properties.Resources.resources
+G:\parsa\jashnvareh\AlarmCryptoParsa\ParsaCryptocurrencyAlerting\AlarmCryptoParsa\bin\Debug\AlarmCryptoParsa.exe.config
+G:\parsa\jashnvareh\AlarmCryptoParsa\ParsaCryptocurrencyAlerting\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.exe
+G:\parsa\jashnvareh\AlarmCryptoParsa\ParsaCryptocurrencyAlerting\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.pdb
+G:\parsa\jashnvareh\AlarmCryptoParsa\ParsaCryptocurrencyAlerting\AlarmCryptoParsa\bin\Debug\AlarmCryptoParsa.exe
+G:\parsa\jashnvareh\AlarmCryptoParsa\ParsaCryptocurrencyAlerting\AlarmCryptoParsa\bin\Debug\AlarmCryptoParsa.pdb
+G:\parsa\jashnvareh\AlarmCryptoParsa\ParsaCryptocurrencyAlerting\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.csprojResolveAssemblyReference.cache
+G:\parsa\jashnvareh\AlarmCryptoParsa\ParsaCryptocurrencyAlerting\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.Form1.resources
+G:\parsa\jashnvareh\AlarmCryptoParsa\ParsaCryptocurrencyAlerting\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.Properties.Resources.resources
+G:\parsa\jashnvareh\AlarmCryptoParsa\ParsaCryptocurrencyAlerting\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.csproj.GenerateResource.Cache
+G:\parsa\jashnvareh\AlarmCryptoParsa\ParsaMohammadi\AlarmCryptoParsa\bin\Debug\AlarmCryptoParsa.exe.config
+G:\parsa\jashnvareh\AlarmCryptoParsa\ParsaMohammadi\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.exe
+G:\parsa\jashnvareh\AlarmCryptoParsa\ParsaMohammadi\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.pdb
+G:\parsa\jashnvareh\AlarmCryptoParsa\ParsaMohammadi\AlarmCryptoParsa\bin\Debug\AlarmCryptoParsa.exe
+G:\parsa\jashnvareh\AlarmCryptoParsa\ParsaMohammadi\AlarmCryptoParsa\bin\Debug\AlarmCryptoParsa.pdb
+G:\parsa\jashnvareh\AlarmCryptoParsa\ParsaMohammadi\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.csprojResolveAssemblyReference.cache
+G:\parsa\jashnvareh\AlarmCryptoParsa\ParsaMohammadi\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.Form1.resources
+G:\parsa\jashnvareh\AlarmCryptoParsa\ParsaMohammadi\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.Properties.Resources.resources
+G:\parsa\jashnvareh\AlarmCryptoParsa\ParsaMohammadi\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.csproj.GenerateResource.Cache
+G:\parsa\jashnvareh\جشنواره ارسالی نهایی\ParsaMohammadi\AlarmCryptoParsa\bin\Debug\AlarmCryptoParsa.exe.config
+G:\parsa\jashnvareh\جشنواره ارسالی نهایی\ParsaMohammadi\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.exe
+G:\parsa\jashnvareh\جشنواره ارسالی نهایی\ParsaMohammadi\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.pdb
+G:\parsa\jashnvareh\nahaei\ParsaMohammadi\AlarmCryptoParsa\bin\Debug\AlarmCryptoParsa.exe.config
+G:\parsa\jashnvareh\nahaei\ParsaMohammadi\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.exe
+G:\parsa\jashnvareh\nahaei\ParsaMohammadi\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.pdb
+G:\parsa\jashnvareh\parsamohammadi_alborz_3karaj\02_source_code\ParsaMohammadi\AlarmCryptoParsa\bin\Debug\AlarmCryptoParsa.exe.config
+G:\parsa\jashnvareh\parsamohammadi_alborz_3karaj\02_source_code\ParsaMohammadi\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.exe
+G:\parsa\jashnvareh\parsamohammadi_alborz_3karaj\02_source_code\ParsaMohammadi\AlarmCryptoParsa\obj\Debug\AlarmCryptoParsa.pdb
